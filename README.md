@@ -1,5 +1,3 @@
-# VoiceBot_Doctor-s_Appointment
-VoiceBot_Doctor'sAppointment
 
 # Commands
 Schedule an appointment: Speak to the bot indicating you want to schedule an appointment. Provide any necessary details such as the type of appointment and preferred date/time.
